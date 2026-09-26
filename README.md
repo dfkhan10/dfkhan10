@@ -14,6 +14,6 @@ These are professional projects; their code is not published here.
 ## Public project
 
 - [Wordle bot](https://github.com/dfkhan10/VoteeAI_Wordle) — an information-gain solver built in three hours for an API-based coding exercise. Testing exposed a feedback rule that differed from standard Wordle, which I accounted for in the solver.
-- [Volatility and options FYP](https://github.com/machine-afk123/FYP-WIL1) — built the dashboard for a team project exploring volatility forecasts and VIX-based trading strategies.
+- [Volatility and options FYP](https://github.com/dfkhan10/FYP-WIL1) — built the dashboard for a team project exploring volatility forecasts and VIX-based trading strategies.
 
 [LinkedIn](https://www.linkedin.com/in/danyalfkhan/)
