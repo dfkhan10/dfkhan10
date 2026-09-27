@@ -4,6 +4,13 @@ I graduated from HKUST's Dual Degree Program with two degrees: a **BEng in Compu
 
 I work with backend systems, AI applications, and data-heavy interfaces.
 
+## Engineering work
+
+- **Luca at Aiwork:** Built the AI accounting system from zero with TypeScript/Node.js, Express, and PostgreSQL. Designed the database and APIs, implemented ledger and journal-entry workflows, and built the agent with retrieval, memory, and tracing.
+- **Admin Hub at 3forge:** Built Java services for real-time telemetry, historical persistence, scheduled aggregation, and component monitoring. Optimized dashboard processing with lazy loading and visibility-aware callbacks, cutting repeated data-model executions from 19+ to 1–4 for instance selection.
+
+The code for these professional projects is private.
+
 ## Public projects
 
 - [Wordle bot](https://github.com/dfkhan10/VoteeAI_Wordle) — an information-gain solver built in three hours for an API-based coding exercise. It uses entropy-based guesses, candidate filtering, and a fallback for answers outside its word lists.
