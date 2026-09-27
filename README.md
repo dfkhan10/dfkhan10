@@ -1,6 +1,6 @@
 # Danyal Khan
 
-I graduated from HKUST's Dual Degree Program with two degrees: a **BEng in Computer Science** and a **BBA in Management**. I'm now pursuing an MPhil in Technology, Innovation and Entrepreneurship at HKUST, expected to graduate in June 2028.
+I graduated from HKUST's Dual Degree Program with two degrees: a **BEng in Computer Science** and a **BBA in Management**. I'm now pursuing an **MPhil in Technology, Innovation and Entrepreneurship** at HKUST, expected to graduate in June 2028.
 
 I work with backend systems, AI applications, and data-heavy interfaces.
 
